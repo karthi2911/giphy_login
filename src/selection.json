@@ -1,0 +1,123 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M576 706.612v-52.78c70.498-39.728 128-138.772 128-237.832 0-159.058 0-288-192-288s-192 128.942-192 288c0 99.060 57.502 198.104 128 237.832v52.78c-217.102 17.748-384 124.42-384 253.388h896c0-128.968-166.898-235.64-384-253.388z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "user",
+          "profile",
+          "avatar",
+          "person",
+          "member"
+        ],
+        "defaultCode": 59761,
+        "grid": 16
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "user, profile2",
+        "name": "user",
+        "id": 113,
+        "order": 3,
+        "prevSize": 32,
+        "code": 59761
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 113
+    },
+    {
+      "icon": {
+        "paths": [
+          "M592 448h-16v-192c0-105.87-86.13-192-192-192h-128c-105.87 0-192 86.13-192 192v192h-16c-26.4 0-48 21.6-48 48v480c0 26.4 21.6 48 48 48h544c26.4 0 48-21.6 48-48v-480c0-26.4-21.6-48-48-48zM192 256c0-35.29 28.71-64 64-64h128c35.29 0 64 28.71 64 64v192h-256v-192z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "lock",
+          "secure",
+          "private",
+          "encrypted"
+        ],
+        "defaultCode": 59791,
+        "grid": 16
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "lock, secure",
+        "name": "lock",
+        "id": 143,
+        "order": 4,
+        "prevSize": 32,
+        "code": 59791
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 143
+    },
+    {
+      "icon": {
+        "paths": [
+          "M853.333 128h-682.667c-72.533 0-128 55.467-128 128v512c0 72.533 55.467 128 128 128h682.667c72.533 0 128-55.467 128-128v-512c0-72.533-55.467-128-128-128zM170.667 213.333h682.667c17.067 0 29.867 8.533 38.4 25.6l-379.733 264.533-379.733-264.533c8.533-17.067 21.333-25.6 38.4-25.6zM853.333 810.667h-682.667c-25.6 0-42.667-17.067-42.667-42.667v-430.933l358.4 251.733c8.533 4.267 17.067 8.533 25.6 8.533s17.067-4.267 25.6-8.533l358.4-251.733v430.933c0 25.6-17.067 42.667-42.667 42.667z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "mail"
+        ],
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "id": 121,
+        "order": 2,
+        "prevSize": 24,
+        "code": 59648,
+        "name": "mail"
+      },
+      "setIdx": 2,
+      "setId": 2,
+      "iconIdx": 120
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50
+  }
+}
